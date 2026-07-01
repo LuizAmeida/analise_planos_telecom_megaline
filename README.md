@@ -214,8 +214,6 @@ O projeto seguiu uma abordagem estruturada em 5 etapas:
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuizAlmeida)
 
 
-## ⭐ Este projeto faz parte do meu Bootcamp em Análise de Dados na TripleTen.
-
 ````
 📊 Resumo dos Insights para Investidores
 - Métrica	Insight
@@ -229,17 +227,4 @@ O projeto seguiu uma abordagem estruturada em 5 etapas:
 ````
 
 
-````
----
-## 🎯 RESUMO DO QUE FAZER
-
-| Ação | Status |
-|------|--------|
-| Criar repositório `analise_planos_telecom_megaline` | ⬜ |
-| Fazer upload do arquivo `.ipynb` | ⬜ |
-| Adicionar README.md com o texto acima | ⬜ |
-| Adicionar tópico `tripleten` | ⬜ |
-| Fixar (pinned) no perfil | ⬜ |
-
----
-````
+## ⭐ Este projeto faz parte do meu Bootcamp em Análise de Dados na TripleTen.
