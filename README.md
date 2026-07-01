@@ -214,17 +214,18 @@ O projeto seguiu uma abordagem estruturada em 5 etapas:
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuizAlmeida)
 
 
-````
 📊 Resumo dos Insights para Investidores
-- Métrica	Insight
-- Plano mais rentável	Ultimate (receita média $72,31 vs $60,71 do Surf)
-- Principal fonte de receita extra	Excedentes de internet no plano Surf (57,9% dos usuários)
-- Previsibilidade	Ultimate tem receita estável (desvio padrão $11,40)
-- Comportamento regional	NY-NJ tem receita diferente das demais regiões
-- Mensagens	Baixo uso em ambos os planos (não gera receita significativa)
-- Chamadas	Uso similar entre planos (~430 min/mês)
-- Conclusão Estratégica: O plano Ultimate é o mais rentável e previsível. A estratégia deve focar na conversão de usuários pesados do Surf para o Ultimate, garantindo satisfação do cliente e estabilidade da receita.
-````
+ |  Métrica | 	Insight | 
+ |------------|----------------|
+ | Plano mais rentável | 	Ultimate (receita média $72,31 vs $60,71 do Surf) | 
+ | Principal fonte de receita extra | 	Excedentes de internet no plano Surf (57,9% dos usuários) | 
+ |  Previsibilidade | 	Ultimate tem receita estável (desvio padrão $11,40) | 
+ | Comportamento regional | 	NY-NJ tem receita diferente das demais regiões | 
+ | Mensagens | 	Baixo uso em ambos os planos (não gera receita significativa) | 
+ | Chamadas | 	Uso similar entre planos (~430 min/mês) | 
+
+## Conclusão Estratégica: O plano Ultimate é o mais rentável e previsível. A estratégia deve focar na conversão de usuários pesados do Surf para o Ultimate, garantindo satisfação do cliente e estabilidade da receita.
+
 
 
 ## ⭐ Este projeto faz parte do meu Bootcamp em Análise de Dados na TripleTen.
